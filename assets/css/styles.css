@@ -162,7 +162,7 @@ body {
     grid-template-columns: 1fr;
     padding-left: 40px;
     justify-content: space-between;
-    
+    padding-bottom: 40px;
     font-size: 1.3em;
 }
 

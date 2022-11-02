@@ -31,13 +31,23 @@ Colores:
         nav-grey: #7b7e8b; #a69182;
         main-bg-gradient: #3e424b;
         main-left-bg: #40444d;
-        main-left-secnd-text: #b3b3b3;
+        main-left-secnd-text: #C7C9D3;
         main-sign-btn: #4bce79;
         hero-bg: #36383f;
         hero-border: #676767;
+        Strong: #ffffff
 
+Font-Family:
 
+    --cp-font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+    --cp-font-family-header: 'Telefon Black', Sans-Serif;
+    --cp-font-family-header-alt: 'Telefon', Sans-Serif;
+    --cp-font-family-monospace: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;
 
+Entities:
+
+    Down arrow: &#8964;
+    waving hand: &#128075;
 
 
 
